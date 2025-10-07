@@ -59,3 +59,34 @@ Developed by: RegisterNumber:*/
 **Output/TIMING Waveform**
 
 **Result:**
+logic diagram for half adder :
+<img width="1180" height="599" alt="Screenshot 2025-10-07 164252" src="https://github.com/user-attachments/assets/226bf559-9cc0-4cde-899f-fd11f989636d" />
+
+
+state diagram for full adder : 
+
+<img width="1920" height="251" alt="Screenshot 2025-10-07 164528" src="https://github.com/user-attachments/assets/3cf1b1f1-587a-4862-a4b5-034db8f07d85" />
+
+
+
+
+logic for full adder :
+
+
+
+
+<img width="677" height="363" alt="Screenshot 2025-10-07 165907" src="https://github.com/user-attachments/assets/54feb22c-030c-4a1e-8df2-9169b6ad2aa2" />
+
+
+
+
+state diagram for full adder:
+
+
+
+
+<img width="1919" height="275" alt="Screenshot 2025-10-07 170118" src="https://github.com/user-attachments/assets/c226f6f3-ea26-4bca-bcc2-eba71ae9437f" />
+
+
+
+thus the given logic functions are implemented using and their operations are verified with verilog programming 

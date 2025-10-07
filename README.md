@@ -63,14 +63,14 @@ logic diagram for half adder :
 <img width="1180" height="599" alt="Screenshot 2025-10-07 164252" src="https://github.com/user-attachments/assets/226bf559-9cc0-4cde-899f-fd11f989636d" />
 
 
-state diagram for full adder : 
+state diagram for half adder : 
 
 <img width="1920" height="251" alt="Screenshot 2025-10-07 164528" src="https://github.com/user-attachments/assets/3cf1b1f1-587a-4862-a4b5-034db8f07d85" />
 
 
 
 
-logic for full adder :
+logic diagram for half subtractor:
 
 
 
@@ -80,7 +80,7 @@ logic for full adder :
 
 
 
-state diagram for full adder:
+state diagram for half subtractor:
 
 
 
